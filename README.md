@@ -1,1 +1,1 @@
-My first readme
+my project is aji cool
